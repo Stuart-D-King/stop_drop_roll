@@ -3,13 +3,15 @@
 #### Research Writing Challenge
 Prepared by **Stuart King** - September 2017  
 Prompt:  
-> You are asked to argue **what place the American fire service should hold in a local community, if any.** Some questions to consider:
+```
+You are asked to argue **what place the American fire service should hold in a local community, if any.** Some questions to consider:
 - What types of response and services should a fire department provide?
 - Is it the business of the fire service to prevent all life safety and fire hazards in a local community?
 - Should fire departments be involved in emergency medical services at all or should that be left to private organizations?
 - Is there an alternative approach to offering emergency response that fire departments should consider?
 
-> You may be broad in your approach or you may choose to focus on a specific service. The choice is yours. You do not even have to believe in your chosen position. We are looking for a persuasive argument supported by factual evidence and/or references.
+You may be broad in your approach or you may choose to focus on a specific service. The choice is yours. You do not even have to believe in your chosen position. We are looking for a persuasive argument supported by factual evidence and/or references.
+```
 
 #### Introduction
 The American fire service holds an important place in today’s local communities, but retaining this position goes beyond tradition and often involves creative thinking. The threat of catastrophic conflagrations may have diminished over the past century, but the risk remains. It is therefore the fire department’s duty to find new ways that add value to a local community so it can maintain an adequately resourced fire department capable of responding to larger disasters. Unfortunately, there is no one-size-fits-all solution to the changing landscape of the fire department’s mission, and the correct response is one that addresses the unique needs of a community. Through Community Risk Reduction (CRR) programs, the fire department can identify acute risks and tailor services that address localized needs. Given the rise in emergency medical calls, finding ways to improve emergency medical services is an excellent platform for the fire department to demonstrate its adaptability and ultimate value-add to a community.
