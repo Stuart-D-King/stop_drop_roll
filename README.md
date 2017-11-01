@@ -5,7 +5,7 @@ Prepared by **Stuart King** - September 2017
 
 ---
 
-**PROMPT**
+#### PROMPT
 
 You are asked to argue **what place the American fire service should hold in a local community, if any.** Some questions to consider:
 - What types of response and services should a fire department provide?
@@ -58,7 +58,7 @@ The CSFD acknowledged that an all-inclusive approach focused on long-term soluti
 #### Conclusion
 By taking a holistic approach to risk reduction, the American fire service is able to demonstrate its communal value through anticipatory risk reduction and reactionary crisis mitigation. Technological advances, targeted education, and a more engaged citizenry have significantly reduced catastrophic fire events, but unfortunately, fire risk still remains, along with other, new threats in the twenty-first century. By collecting data and conducting comprehensive community risk assessments, fire departments are able to design research-based CRR programs that respond to localized needs and keep people safe. Using a CRR approach, fire departments have correctly targeted emergency medical services as a way to improve emergency medical delivery and reduce life safety risks in a community.
 
-#### References
+#### Endnotes
 1. Number of fires by type of fire. (2017, September). Retrieved from http://www.nfpa.org/news-and-research/fire-statistics-and-reports/fire-statistics/fires-in-the-us/overall-fire-problem/number-of-fires-by-type-of-fire.
 2. U.S. Firefighters. (2017, May). Retrieved from http://www.nfpa.org/news-and-research/fire-statistics-and-reports/fire-statistics/the-fire-service/administration/us-firefighters.
 3. Haynes, H. J. G., Stein, G. P. (2017, April). U.S. Fire Department Profile – 2015. Quincy, MD: National Fire Protection Association. Retrieved from http://www.nfpa.org/news-and-research/fire-statistics-and-reports/fire-statistics/the-fire-service/administration/us-fire-department-profile.
